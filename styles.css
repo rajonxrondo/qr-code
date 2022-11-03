@@ -24,7 +24,7 @@ body {
     text-align: center;
     position: relative;
     display: inline-block;
-    
+    border-radius: 15px;    
 }
 
 .h1 {
