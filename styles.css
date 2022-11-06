@@ -8,6 +8,7 @@ body {
     align-items: center;
     box-sizing: border-box;
     background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
 }
 
 .container {
